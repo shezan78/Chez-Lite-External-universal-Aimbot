@@ -14,13 +14,13 @@ Chez LITE uses [YOLOv5](https://github.com/ultralytics/yolov5)
 ## Usage
 If the console is closing immediately, you can run this command to see the errors:
 ```           
-python lunar.py
+python chez.py
 ```
 To update sensitivity settings:
 ```           
-python lunar.py setup
+python chez.py setup
 ```
 To collect image data for annotating and training:
 ```           
-python lunar.py collect_data
+python chez.py collect_data
 ```
