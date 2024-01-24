@@ -1,2 +1,2 @@
-python lunar.py
+python chez.py
 pause
