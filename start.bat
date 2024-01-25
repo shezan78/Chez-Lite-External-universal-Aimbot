@@ -1,0 +1,2 @@
+python chez.py
+pause
